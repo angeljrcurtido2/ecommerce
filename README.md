@@ -127,27 +127,28 @@ npm run dev
 <h2>Project screenshots</h2>
 
 <h3>Home page</h3>
-
+<img src="./assets/homepage1.png" alt="Ecommerce home page" width="800">
 <h3>Shop page</h3>
-
+<img src="./assets/shoppage1.png" alt="ShopPage" width="800">
 <h3>Single product page</h3>
-
+<img src="./assets/singleproductpage.png" alt="Single product page" width="800">
 <h3>Register page</h3>
-
+<img src="./assets/registerpage.png" alt="Register page" width="800">
 <h3>Login page</h3>
-
+<img src="./assets/loginpage.png" alt="Login page" width="800">
 <h3>Search page</h3>
-
+<img src="./assets/searchpage.png" alt="Search page" width="800">
 <h3>Wishlist page</h3>
-
+<img src="./assets/whitlistpage.png" alt="Wishlist page" width="800">
 <h3>Cart page</h3>
-
+<img src="./assets/cartpage.png" alt="Cart page" width="800">
 <h3>Checkout page</h3>
-
+<img src="./assets/checkoutpage.png" alt="Checkout page" width="800">
 <h3>Admin dashboard - All orders page</h3>
-
+<img src="./assets/admindashboardorderpage.png" alt="Admin dashboard - All orders page" width="800">
 <h3>Admin dashboard - All products page</h3>
-
+<img src="./assets/admindashboardproductpage.png" alt="Admin dashboard - All products page" width="800">
 <h3>Admin dashboard - All categories page<h3>
-
+<img src="./assets/admindashboardcategorypage.png" alt="Admin dashboard - All products page" width="800">
 <h3>Admin dashboard - All users page</h3>
+<img src="./assets/admindashboarduserpage.png" alt="Admin dashboard - All products page" width="800">
