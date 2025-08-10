@@ -1,0 +1,44 @@
+<!-- logo.svg -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 430 120"
+  role="img"
+  aria-labelledby="logoTitle"
+>
+  <title id="logoTitle">ANGEL CURTIDO – Proyect-Ecommerce</title>
+
+  <!-- Gradiente muy sutil de azul oscuro a azul medio -->
+  <defs>
+    <linearGradient id="softBlue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#113466" />
+      <stop offset="100%" stop-color="#2c5aa0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Texto principal -->
+  <text
+    x="50%"
+    y="52%"
+    text-anchor="middle"
+    fill="url(#softBlue)"
+    font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
+    font-size="48"
+    font-weight="700"
+    letter-spacing="1.5"
+  >
+    ANGEL CURTIDO
+  </text>
+
+  <!-- Subtítulo -->
+  <text
+    x="50%"
+    y="85%"
+    text-anchor="middle"
+    fill="#2c5aa0"
+    font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif"
+    font-size="24"
+    font-weight="500"
+  >
+    Proyect-Ecommerce
+  </text>
+</svg>
